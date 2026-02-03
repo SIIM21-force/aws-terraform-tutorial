@@ -36,6 +36,7 @@ There you go, you launched an instance using AWS WebGUI (or technically, manuall
 Here is the video tutorial of how you can launch EC2 instance manually:
 
 <!-- Video Tutorial -->
+Drive link: [How to setup VPC & EC2 manually?](https://drive.google.com/file/d/1Rzc06pHMtZgoojzShiOpOPij2CxHTT6B/view?usp=sharing)
 
 ---
 
@@ -67,6 +68,7 @@ There you go, you orchestrated AWS services using Terraform.
 Here is the video tutorial of how you can launch EC2 instance using Terraform:
 
 <!-- Video Tutorial -->
+Drive Link: [How to orchestrate AWS Services using Terraform?](https://drive.google.com/file/d/1FMYp1mlC0_NaYUUlEXO4sEoz446R2SOD/view?usp=sharing)
 
 ---
 
